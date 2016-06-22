@@ -1,4 +1,4 @@
-[After Lab](https://lab.after.haus/) — Be careful not to spill something ☢
+[After Lab ☢](https://lab.after.haus/) — Be careful not to spill something 
 ==================================================
 
 Projects
