@@ -1,4 +1,4 @@
-[After Lab ☢](https://lab.after.haus/) — Be careful not to spill something 
+[After Lab ☢](https://lab.after.haus/) — Be careful not to spill something
 ==================================================
 
 Projects
@@ -8,4 +8,4 @@ Projects
 
 --------------------------------------
 
-- No animals are harmed in this lab environment
+- No animals were harmed in this lab environment
