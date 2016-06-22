@@ -9,4 +9,4 @@ Projects
 
 --------------------------------------
 
-- No animals were harmed in this lab environment
+- No animals are harmed in this lab environment
