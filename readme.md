@@ -6,7 +6,6 @@ Projects
 
 1. НЕБОЈША
 
-
 --------------------------------------
 
 - No animals are harmed in this lab environment
